@@ -24,6 +24,11 @@
         <mxCell id="1760" value="&lt;div&gt;&amp;nbsp;统一数据管道 Data Pipeline&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 原始数据 → 清洗 → 转换 → 结果导入（CSV / DB ）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="280" y="460" width="580" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B0GMYLBWmqCU1tm6qlHA-1786" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1762">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1762" value="&lt;div&gt;日志与配置模块（utils、config）&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; 提供日志记录 / 参数加载功能&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="462.5" y="590" width="215" height="60" as="geometry" />
         </mxCell>
