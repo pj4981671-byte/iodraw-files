@@ -25,7 +25,7 @@
           <mxGeometry x="280" y="460" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1762" value="&lt;div&gt;日志与配置模块（utils、config）&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; 提供日志记录 / 参数加载功能&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="495" y="580" width="215" height="60" as="geometry" />
+          <mxGeometry x="462.5" y="590" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B0GMYLBWmqCU1tm6qlHA-1780" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1764" target="1753">
           <mxGeometry relative="1" as="geometry">
@@ -66,6 +66,9 @@
             <mxPoint x="790" y="391" as="sourcePoint" />
             <mxPoint x="790" y="456" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B0GMYLBWmqCU1tm6qlHA-1785" value="&lt;div&gt;日志与配置模块（utils、config）&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; 提供日志记录 / 参数加载功能&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="710" width="215" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
