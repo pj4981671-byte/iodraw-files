@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1764" value="主程序入口&lt;div&gt;main.py&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="495" y="120" width="150" height="60" as="geometry" />
+          <mxGeometry x="495" y="140" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1767" value="CLI命令行入口&lt;div&gt;CLI/main.py&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="495" y="-20" width="150" height="60" as="geometry" />
