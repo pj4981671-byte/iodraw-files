@@ -47,9 +47,9 @@
           <mxGeometry x="495" y="200.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1767" value="CLI命令行入口&lt;div&gt;CLI/main.py&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="495" y="50.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="495" y="80" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1768" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="1764" edge="1">
+        <mxCell id="1768" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1767" target="1764" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="140" as="sourcePoint" />
           </mxGeometry>
